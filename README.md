@@ -1,5 +1,5 @@
 **What is this?**
-This is a python script I use for managing autosave.dat files for Kingdom Hearts Final Mix on a Windows PC. It includes options for copying, loading, and deleting autosave data.
+- This is a python script I use for managing autosave.dat files for Kingdom Hearts Final Mix on a Windows PC. It includes options for copying, loading, and deleting autosave data.
 
 **Prerequisites:**
 - 1fmSaveAnywhere.lua must be installed to use the autosaves.
