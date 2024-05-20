@@ -11,6 +11,7 @@
 - When navigating menus, simply type the corresponding menu item number, and press Enter.
 - The Save menu allows you to make a copy of the current autosave.dat.
 - The Load menu allows you to replace the current autosave.dat with whichever you select. Doing so will also create a backup of the current autosave.dat, unless loading the backup itself.
+- The Rename menu allows you to rename created saves.
 - The Delete menu allows you to delete created saves.
 
 **Note:**
